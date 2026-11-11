@@ -1,0 +1,6 @@
+{
+  "name": "Plano de Ação 5W2H & Verificação de Eficácia",
+  "description": "Sistema corporativo de gestão de planos de ação 5W2H com fluxo de aprovação e verificação de eficácia por unidade e categoria normativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
